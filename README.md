@@ -23,10 +23,15 @@ LinkedIn: Vikram D P
 GitHub:vikram17dp linkedin:Vikram D p
 
 Screenshots
-(https://github.com/vikram17dp/portfolio/assets/144223883/17d31bc2-19b1-4b1f-a59f-3dcd0b76ccdd) (https://github.com/vikram17dp/portfolio/assets/144223883/1e959a92-a363-4f24-a2b1-ce45a67f3dbf) (https://github.com/vikram17dp/portfolio/assets/144223883/c24ca067-d593-4a58-8be9-455cbeef5cb2) (https://github.com/vikram17dp/portfolio/assets/144223883/900c74ca-c551-4c30-9ddf-e925d5d4c102) (https://github.com/vikram17dp/portfolio/assets/144223883/a02bf1b2-a955-4e38-8c6b-f90eb9d1bc3e)
+![Screenshot 2024-01-21 223403](https://github.com/vikram17dp/portfolio/assets/144223883/8a8e0324-f887-42b5-ac7f-5925baf49d32)
+![Screenshot 2024-01-21 223429](https://github.com/vikram17dp/portfolio/assets/144223883/10f1e32d-aa86-4d02-9aa4-0b3478c64fea)
+![Screenshot 2024-01-21 223505](https://github.com/vikram17dp/portfolio/assets/144223883/20b59229-5e4e-4dea-a0cf-8e3609e81189)
+![Screenshot 2024-01-21 223551](https://github.com/vikram17dp/portfolio/assets/144223883/abf38b02-9a50-4fbe-87a8-8282e5a9483e)
+![Screenshot 2024-01-21 223621](https://github.com/vikram17dp/portfolio/assets/144223883/516e2989-c725-4b0f-82c4-7b0b07ce57e1)
+
 
 Deployment
-Please click this is link to Deployhere
+Please click this is link to Deploy[here](https://vikram17dp.github.io/portfolio/#)
 
 Tech Stack
 HTML,CSS
